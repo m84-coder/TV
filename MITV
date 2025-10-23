@@ -3347,3 +3347,9 @@ http://181.205.220.43:8000/play/a00g/index.m3u8
 http://181.205.220.43:8000/play/a002/index.m3u8
 #EXTINF:-1,MTV | 695.1ms
 http://181.205.220.43:8000/play/a006/index.m3u8
+#EXTINF:-1
+http://181.65.180.184:8500/playlist.m3u8
+#EXTINF:-1
+http://190.95.60.228:8500/playlist.m3u8
+#EXTINF:-1
+http://45.71.37.194:8010/playlist.m3u8
