@@ -5865,3 +5865,33 @@ http://200.37.186.109:8000/play/a02c/index.m3u8
 http://170.81.241.222:31589/play/a067/index.m3u8
 #EXTINF:-1,Panamericana
 http://38.56.118.88:4000/play/a040
+#EXTINF:0,TELEMUNDO FLORIDA
+#EXTGRP:Noticias Internacional
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+#EXTINF:0,Milenio Televisión
+#EXTGRP:Noticias Internacional
+https://stitcher.pluto.tv/stitch/hls/channel/652e922db4b047000825f975/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0,Milenio Televisión
+#EXTGRP:unsorted
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:0,MX: MILENIO
+#EXTGRP:Bics MX
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:0,MX: N+ FORO
+#EXTGRP:Bics MX
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
+#EXTINF:0,MX: N+ FORO
+#EXTGRP:Bics MX
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/FOROTV/20-hls/live-media.m3u8
+#EXTINF:0,MX: N+ GDL
+#EXTGRP:Bics MX
+https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
+#EXTINF:0,MX: N+ MTY
+#EXTGRP:Bics MX
+https://channel09-onlymex.akamaized.net/hls/live/2094418/event01/index.m3u8
+#EXTINF:0,HISPAN TV
+#EXTGRP:Noticias Internacional
+https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+#EXTINF:0,HISPAN TV
+#EXTGRP:unsorted
+http://181.119.66.30:8000/play/38/index.m3u8
