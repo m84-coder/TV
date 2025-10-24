@@ -3347,14 +3347,11 @@ http://181.205.220.43:8000/play/a00g/index.m3u8
 http://181.205.220.43:8000/play/a002/index.m3u8
 #EXTINF:-1,MTV | 695.1ms
 http://181.205.220.43:8000/play/a006/index.m3u8
-#EXTM3U
-#EXTINF:-1,LISTA1
-http://181.65.180.184:8500/playlist.m3u8
-#EXTM3U
-#EXTINF:-1,LISTA2
-http://190.95.60.228:8500/playlist.m3u8
-#EXTM3U
-#EXTINF:-1,LISTA3
-http://45.71.37.194:8010/playlist.m3u8
-#EXTINF:-1,LISTA4
-https://www.m3u.cl/lista/PE.m3u
+#EXTINF:-1 group-title="-",Latina HD
+http://190.25.157.70:8000/play/a0fc
+#EXTINF:-1 group-title="-",Latina HD
+http://181.78.202.249:8002/play/a080/index.m3u8
+#EXTINF:-1 group-title="-",LATINA
+http://190.66.7.162:2112/play/a010/index.m3u8
+#EXTINF:-1,RPP
+http://181.64.186.85:8001/play/a0oh/index.m3u8
