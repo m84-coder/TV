@@ -3373,3 +3373,25 @@ http://181.64.186.85:8001/play/a0oh/index.m3u8
 http://201.219.11.179:8005/play/a1s8/index.m3u8
 #EXTINF:-1,RPP
 http://199.188.103.176:8000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="-",ATV
+http://190.109.4.34:8000/play/a04w/index.m3u8
+#EXTINF:-1,ATV
+http://181.176.153.107:8090/play/a0n7/index.m3u8
+#EXTINF:-1 group-title="-",ATV
+http://45.5.150.5:8888/play/a13p/index.m3u8
+#EXTINF:-1 group-title="-",ATV
+http://45.181.206.7:10000/play/a0qz
+#EXTINF:-1 group-title="-",ATV
+http://186.194.160.110:9002/play/a01a/index.m3u8
+#EXTINF:-1,ATV
+http://190.52.105.146:8000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="-",ATV
+http://190.66.7.162:2112/play/a03k/index.m3u8
+#EXTINF:-1,ATV
+http://181.64.186.85:8001/play/a0og/index.m3u8
+#EXTINF:-1,ATV
+http://201.219.11.179:8005/play/a2vy/index.m3u8
+#EXTINF:-1 group-title="-",ATV
+http://45.71.38.3:8010/play/a0a3/index.m3u8
+#EXTINF:-1,ATV
+http://199.188.103.176:8000/play/a06g/index.m3u8
