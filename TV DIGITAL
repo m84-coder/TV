@@ -6037,3 +6037,36 @@ http://45.189.148.24:8000/play/a00e/index.m3u8
 http://45.189.148.254:9999/play/a038
 #EXTINF:-0, CANAL IMAGEN TV
 45.189.151.7:8000/play/a04l/index.m3u8
+#EXTINF:0,DW Español
+#EXTGRP:Latinoamerica
+http://live1.cl.cdn.lla.vtrplay.com/dwsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:0,CNN en Español
+#EXTGRP:Latinoamerica
+https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
+#EXTINF:0,CNN en Español
+#EXTGRP:Latinoamerica
+http://linear-358.frequency.stream/358/hls/master/playlist.m3u8
+#EXTINF:0,CNN en Español
+#EXTGRP:Latinoamerica
+http://38.56.118.88:4000/play/a06k/index.m3u8
+#EXTINF:0,CNN en Español
+#EXTGRP:Latinoamerica
+http://131.161.53.2:8000/play/a02n/index.m3u8
+#EXTINF:0,CNN en Español
+#EXTGRP:Latinoamerica
+http://45.71.252.16:8000/play/a09u/index.m3u8
+#EXTINF:0,CNN en Español
+#EXTGRP:Latinoamerica
+http://45.179.164.30:8000/play/a08q/index.m3u8
+#EXTINF:0,CNN en Español
+#EXTGRP:Latinoamerica
+http://186.148.183.242:5805/play/a02n/index.m3u8
+#EXTINF:0,CNN en Español
+#EXTGRP:Latinoamerica
+http://45.71.252.16:8000/play/a09u/index.m3u8
+#EXTINF:0,DW Español
+#EXTGRP:Internacionales
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+#EXTINF:0,MX: AZTECA INTERNACIONAL
+#EXTGRP:Bics MX
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
