@@ -5316,3 +5316,78 @@ https://1279247418.rsc.cdn77.org/bpk-tv/QLATIN4TV/dash/manifest.mpd
 #EXTINF:0,Latina Digital
 #EXTGRP:Perú
 https://www.youtube.com/watch?v=hVYkdoNFW9g&pp=uAQw
+#EXTINF:0,Retro Plus TV Señal 2 | CL
+#EXTGRP:Interior Argentina
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Retro Plus TV Señal 3 | CL
+#EXTGRP:Interior Argentina
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Retro Plus TV ✪ | CL
+#EXTGRP:Interior Argentina
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,ATV
+#EXTGRP:Perú
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:0,ATV orig hd
+#EXTGRP:Perú
+https://pelivechannelshls.media.claro.com.pe/bpk-tv/ATVHD/hls_fk/index.m3u8
+#EXTINF:0,ATV orig sd
+#EXTGRP:Perú
+http://147.135.124.6:26649/play/a062/index.m3u8
+#EXTINF:0,ATV
+#EXTGRP:Perú
+http://38.56.118.88:4000/play/a03q/index.m3u8
+#EXTINF:0,ATV orig isdbt
+#EXTGRP:Perú
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATV/playlist.m3u8
+#EXTINF:0,ATV orig isdbt
+#EXTGRP:Perú
+http://38.56.220.254:8000/play/a005/index.m3u8
+#EXTINF:0,ATV orig isdbt
+#EXTGRP:Perú
+http://38.62.232.25:8000/play/a004/index.m3u8
+#EXTINF:0,ATV
+#EXTGRP:Perú
+http://161.132.108.74:50001/play/a02h/index.m3u8
+#EXTINF:0,ATV+
+#EXTGRP:Perú
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+#EXTINF:0,ATV+
+#EXTGRP:Perú
+https://pelivechannelshls.media.claro.com.pe/bpk-tv/ATVPLUS/hls_fk/index.m3u8
+#EXTINF:0,ATV+ orig isdbt
+#EXTGRP:Perú
+http://bantel-cdn1.iptvperu.tv:1935/transcoderip/atvnoticiasmovil_t6.stream/playlist.m3u8
+#EXTINF:0,ATV+
+#EXTGRP:Perú
+http://161.132.108.74:50001/play/a02i/index.m3u8
+#EXTINF:0,Bolivision
+#EXTGRP:Bolivia
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:0,Bolivision orig
+#EXTGRP:Bolivia
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
+#EXTINF:0,Bolivision orig hd
+#EXTGRP:Bolivia
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:0,Bolivision orig movil
+#EXTGRP:Bolivia
+http://master.tucableip.com/movil/index.m3u8
+#EXTINF:0,Bolivision
+#EXTGRP:Bolivia
+http://167.250.135.246:81/play/tdt02/index.m3u8
+#EXTINF:0,Bolivision
+#EXTGRP:Bolivia
+http://177.234.230.226:8010/play/a035/index.m3u8
+#EXTINF:0,Bolivision
+#EXTGRP:Bolivia
+http://177.222.108.82:2500/play/a0gg/index.m3u8
+#EXTINF:0,BO: CANAL 7.1
+#EXTGRP:Bics Latino
+https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
+#EXTINF:0,BO: CANAL 7.2 DEPORTES
+#EXTGRP:Bics Latino
+https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
+#EXTINF:0,BO: BOLIVISION
+#EXTGRP:Bics Latino
+https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
