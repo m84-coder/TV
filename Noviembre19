@@ -3,7 +3,7 @@
 http://179.63.6.15:8000/play/a00s
 #EXTINF:-1 group-title="-",ALC HD - HDMI 13- ENCODER DOS
 http://179.63.6.15:8000/play/a01z
-#EXTINF:-1 group-title="-",ANIMAL PLANET HD - HDMI 04 - ENCODER DOS
+⁴#EXTINF:-1 group-title="-",ANIMAL PLANET HD - HDMI 04 - ENCODER DOS
 http://179.63.6.15:8000/play/a01h
 #EXTINF:-1 group-title="-",CANAL LA ESTRELLAS - HDMI 15 - ENCODER DOS
 http://179.63.6.15:8000/play/a01e
@@ -11084,3 +11084,6 @@ http://181.78.211.244:8005/play/a09c/index.m3u8
 http://181.78.211.244:8005/play/a04m/index.m3u8
 #EXTINF:-1,Warner
 http://181.78.211.244:8005/play/a08k/index.m3u8
+#EXTGRP:Latinoamerica VIP
+http://148.230.28.85:8001/playlist.m3u8
+LATAM
