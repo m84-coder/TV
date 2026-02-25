@@ -14181,3 +14181,5 @@ http://38.211.118.56:50002/play/a0b1/index.m3u8
 http://38.211.118.56:50002/play/a0417/index.m3u8
 #EXTINF:-1 group-title="-",MEXICO PREMIUM
 http://200.92.227.238:8000/playlist.m3u8
+http://91.245.220.29/stream/playlist
+http://186.54.41.204:8002/playlist.m3u8
