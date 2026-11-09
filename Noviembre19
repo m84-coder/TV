@@ -161,44 +161,6 @@ http://179.1.68.245:7600/play/a05p/index.m3u8
 http://179.1.68.245:7600/play/a066/index.m3u8
 #EXTINF:-1 group-title="-",E Entertainment
 http://179.1.68.245:7600/play/a07z/index.m3u8
-#EXTINF:-1 group-title="-",ESPN
-http://179.1.68.245:7600/play/a074/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2
-http://179.1.68.245:7600/play/a07a/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2 HD
-http://179.1.68.245:7600/play/a0c5/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2 Latin
-http://179.1.68.245:7600/play/a075/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3
-http://179.1.68.245:7600/play/a04b/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3 HD
-http://179.1.68.245:7600/play/a0bs/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 4
-http://179.1.68.245:7600/play/a064/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 4 HD
-http://179.1.68.245:7600/play/a0bt/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 5 HD
-http://179.1.68.245:7600/play/a0bu/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6
-http://179.1.68.245:7600/play/a085/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6 HD
-http://179.1.68.245:7600/play/a0bv/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 7
-http://179.1.68.245:7600/play/a084/index.m3u8
-#EXTINF:-1 group-title="-",ESPN COLOMBIA
-http://179.1.68.245:7600/play/a07c/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
-http://179.1.68.245:7600/play/a0bw/index.m3u8
-#EXTINF:-1 group-title="-",ESPN PREMIUM HD
-http://179.1.68.245:7600/play/a0bx/index.m3u8
-#EXTINF:-1 group-title="-",Enlace
-http://179.1.68.245:7600/play/a071/index.m3u8
-#EXTINF:-1 group-title="-",Esne TV
-http://179.1.68.245:7600/play/a054/index.m3u8
-#EXTINF:-1 group-title="-",Europa HD
-http://179.1.68.245:7600/play/a08v/index.m3u8
-#EXTINF:-1 group-title="-",FOX NEWS CHANEL
-http://179.1.68.245:7600/play/a095/index.m3u8
 #EXTINF:-1 group-title="-",FX
 http://179.1.68.245:7600/play/a040/index.m3u8
 #EXTINF:-1 group-title="-",HBO
